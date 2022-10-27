@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/gabpereiraa/node?style=flat-square)
-# Tutorial Node
-Tutorial de lógica de Programação com a plataforma Node.
+# Tutorial NodeJS
+Tutorial de lógica de Programação usando JavaScript e a plataforma Node.
 ## Autor
 Gabriel Anastácio
 ## Links
