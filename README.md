@@ -8,6 +8,7 @@ Gabriel Anastácio
 
 [vscode](https://code.visualstudio.com/)
 
+[npm repository](https://www.npmjs.com/)
 ## Dicas
 - node -v (versão do Node)
 - npm -v (versão do gerenciador de pacotes)
