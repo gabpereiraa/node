@@ -8,3 +8,10 @@ Gabriel Anastácio
 
 [vscode](https://code.visualstudio.com/)
 
+## Dicas
+- node -v (versão do Node)
+-npm -v (versão do gerenciador de pacotes)
+-npm init (iniciar o package.json)
+-npm install ou npm i (instalar um pacote)
+-npm ls ( listar os pacotes instalados)
+-npm shrinkwrap (travar as versões dos pacotes instalados)
