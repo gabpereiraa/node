@@ -1,5 +1,5 @@
 /**
- * Operadores
+ * Operadores de atribuição
  */
 
  console.log ("Operadores de Atribuição")

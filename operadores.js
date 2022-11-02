@@ -1,5 +1,5 @@
 /**
- * Operadores
+ * Operadores aritmeticos
  */
 
 console.log ("Operadores Aritméticos")
